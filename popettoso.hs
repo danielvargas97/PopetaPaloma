@@ -1,2 +1,2 @@
-popetto:: String
-popetto = "Pero eso ya se sabia :v"
+popetto:: String->String
+popetto x =  x++",pero eso ya se sabia :v"
